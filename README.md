@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 :love_you_gesture: Fullstack engineer from Florence, Italy, currently living in Rocklin, California.
-- :clap: I am currently working on a E-Commerce website
-- :nerd_face: Learning: Typescript
+- :clap: I am currently working on a E-Commerce website and a MERN application
+- :nerd_face: Learning: Pyhton
 - :pizza: Hobbies: Cooking, Eating, Driving :racing_car:
 
 👀 View my portfolio here: [Portfolio](https://www.alexandresteinhauslin.dev)
