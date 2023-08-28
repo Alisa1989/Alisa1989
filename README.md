@@ -15,5 +15,5 @@
 
 📲 Call Me here: (530) 601-9948
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Alisa1989&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Alisa1989&count_private=false&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=alisa1989&&layout=compact)]()
