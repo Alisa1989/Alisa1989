@@ -2,8 +2,8 @@
 
 :love_you_gesture: Fullstack engineer from Florence, Italy, currently living in Granite Bay, California.
 - :sunglasses: Director of Frontend Engineering @ OpenSac
-- :clap: I am currently working on a MERN application
-- :nerd_face: Learning: Parallel Programming with CUDA and OpenCL
+- :clap: I am currently working on a Landing Page in Next.js
+- :nerd_face: Learning: Typescript
 - :pizza: Hobbies: Cooking, Eating, Driving :racing_car:
 
 👀 View my portfolio here: [Portfolio](https://www.alexandresteinhauslin.dev)
