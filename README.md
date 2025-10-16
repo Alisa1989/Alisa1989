@@ -6,7 +6,7 @@
 - :nerd_face: Learning: Typescript
 - :pizza: Hobbies: Cooking, Eating, Driving :racing_car:
 
-👀 View my portfolio here: [Portfolio](https://www.alexandresteinhauslin.dev)
+👀 View my portfolio here: [Portfolio](https://www.alexandresteinhauslin.com)
 
 <!-- 📝 Check my resume out here: [Alex's Resume](drive.google.com) -->
 
